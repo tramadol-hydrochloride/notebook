@@ -2,6 +2,9 @@
 
 ## File description
 
+- gan_latent_space.ipynb
+linear interpolation and spherical interpolation for exploring the gan latent space
+
 - image_resize.ipynb  
 resize image with different resize methods (i.e. crop, pad)
 
