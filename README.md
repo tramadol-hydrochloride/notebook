@@ -5,7 +5,7 @@
 - dirname_to_label.ipynb  
 create a text file that contains an image path/label pair for the data processing of the conditional dataset for gan training
 
-- gan_latent_space.ipynb  
+- [gan_latent_space.ipynb](https://nbviewer.jupyter.org/github/tramadol-hydrochloride/notebook/blob/master/gan_latent_space.ipynb)    
 linear interpolation and spherical interpolation for exploring the gan latent space
 
 - image_resize.ipynb  
