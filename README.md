@@ -2,7 +2,7 @@
 
 ## File description
 
-- dirname_to_label.ipynb  
+- [dirname_to_label.ipynb](https://nbviewer.jupyter.org/github/tramadol-hydrochloride/notebook/blob/master/dirname_to_label.ipynb)  
 create a text file that contains an image path/label pair for the data processing of the conditional dataset for gan training
 
 - [gan_latent_space.ipynb](https://nbviewer.jupyter.org/github/tramadol-hydrochloride/notebook/blob/master/gan_latent_space.ipynb)    
