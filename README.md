@@ -2,7 +2,7 @@
 
 ## File description
 
-- [brose_img_gdrive](https://nbviewer.jupyter.org/github/tramadol-hydrochloride/notebook/blob/master/browse_img_gdrive.ipynb)  returns the grid image of the images in specified directory
+- [brose_img_gdrive](https://nbviewer.jupyter.org/github/tramadol-hydrochloride/notebook/blob/master/browse_img_gdrive.ipynb)   returns the grid image of the images in specified directory
 
 - [dirname_to_label.ipynb](https://nbviewer.jupyter.org/github/tramadol-hydrochloride/notebook/blob/master/dirname_to_label.ipynb)  
 create a text file that contains an image path/label pair for the data processing of the conditional dataset for gan training
